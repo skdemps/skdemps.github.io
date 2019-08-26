@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Poppins|Roboto:700&display=swap');
+
+body {
+	background-color: #99ffcc;
+	color: #003300;
+	font-family: "Poppins", "Roboto", "Bitter";
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Bitter', sans-serif;
+	text-decoration-line: underline;
+	text-decoration-style: double;
+	text-decoration-style: wavy;
+}
+
+h3 {
+	border-style: double;
+	border-color: #003300;
+}
+
+.italics {
+	font-style: italic;
+}
